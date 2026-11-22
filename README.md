@@ -1,1 +1,1 @@
-# crop-disease-prediction
+# Crop_disease_detection
